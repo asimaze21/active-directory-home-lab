@@ -40,32 +40,32 @@ This project documents a Windows Server Active Directory home lab built to simul
 ### 1. Active Directory Structure
 Shows the domain and Organizational Units created for the lab.
 
-![AD Structure](screenshots/01_ad_structure.png)
+![AD Structure](01_ad_structure.png)
 
 ### 2. User Management
 Shows multiple user accounts created inside the IT OU.
 
-![User Management](screenshots/02_user_management.png)
+![User Management](02_user_management.png)
 
 ### 3. GPO Linked to IT OU
 Shows the `IT Security Policy` GPO linked to the IT Organizational Unit.
 
-![GPO Linked](screenshots/03_gpo_linked.png)
+![GPO Linked](03_gpo_linked.png)
 
 ### 4. Password Policy
 Shows password policy configuration within Group Policy.
 
-![Password Policy](screenshots/04_password_policy.png)
+![Password Policy](04_password_policy.png)
 
 ### 5. Account Lockout Policy
 Shows account lockout policy settings used to strengthen domain security.
 
-![Account Lockout Policy](screenshots/05_account_lockout_policy.png)
+![Account Lockout Policy](05_account_lockout_policy.png)
 
 ### 6. Admin Privileges
 Shows the administrative account assigned to the `Domain Admins` group.
 
-![Admin Privileges](screenshots/06_admin_privileges.png)
+![Admin Privileges](06_admin_privileges.png)
 
 ## Skills Demonstrated
 - Active Directory administration
